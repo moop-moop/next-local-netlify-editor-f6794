@@ -1,6 +1,6 @@
 {
     "type": "Config",
-    "favicon": "/images/favicon.png",
+    "favicon": "/images/fav.svg",
     "header": {
         "title": "TypeScript + MUI Starter",
         "navLinks": [
